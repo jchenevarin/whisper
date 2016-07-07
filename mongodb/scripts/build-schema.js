@@ -1,0 +1,1 @@
+print('build-schema script running');
